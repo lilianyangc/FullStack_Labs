@@ -1,8 +1,8 @@
 Professors:
 Mike Denton, Alla Abramova
 
-The following is the link to my labs.
-Please feel free to browse.
+The following are labs that I have successfully implemented.
+Click "Repo" for the full repo and lab details.
 
 # FullStack Labs
 
